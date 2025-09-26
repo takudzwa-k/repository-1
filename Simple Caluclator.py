@@ -13,10 +13,6 @@ if(option in [1,2,3,4]):
         result = num1 + num2
     elif(option == 2):
         result = num1 - num2
-    elif(option == 3):
-        result = num1 * num2
-    elif(option == 4):
-        result = num1 // num2
 
 else:
     print('Invalid option entered')
